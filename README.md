@@ -194,8 +194,4 @@ Average valuation by industry:
 
 
 
-* Optimize these bullets for **specific job roles**
-* Write a **LinkedIn post with metrics**
-* Design a **Power BI dashboard layout mapped to your KPIs**
 
-You’ve built a **very strong portfolio project** — nicely done 🚀
